@@ -16,7 +16,7 @@ class ArticleController {
             '#theme' => 'article_list',
             '#items' => $items,
             '#title' => 'Our article list'
-        )
+        );
 
     }
 }
