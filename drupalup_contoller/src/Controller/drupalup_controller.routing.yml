@@ -1,4 +1,4 @@
-drupal_controller.article_list:
+drupalup_controller.article_list:
   path: "/drupalup/articles"
   defaults:
     _controller: '\Drupal\drupalup_controller\Controller\ArticleController::page'
